@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Programs5--10
+</name>
+</assembly>
+<members>
+<member name="P:Programs_5__10.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Programs_5__10.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Programs_5__10.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Programs_5__10.grade.average(System.Int32@)">
+Function for Caculating grade point Average
+
+</member><member name="M:Programs_5__10.grade.letter(System.Char@)">
+Function to determind the grade of student by letters
+
+</member><member name="M:Programs_5__10.grade.Button2_Click(System.Object,System.EventArgs)">
+Button2 = Display students information reading from data file
+
+</member><member name="M:Programs_5__10.grade.Button1_Click(System.Object,System.EventArgs)">
+Button1 = Display all students in data file
+
+</member><member name="M:Programs_5__10.grade.Button5_Click(System.Object,System.EventArgs)">
+Button5 = Exit button
+
+</member><member name="M:Programs_5__10.grade.Button4_Click(System.Object,System.EventArgs)">
+Button 4 = PrintPreview
+
+</member><member name="M:Programs_5__10.grade.Button3_Click(System.Object,System.EventArgs)">
+ Button3 = Print
+
+</member><member name="M:Programs_5__10.grade.Button8_Click(System.Object,System.EventArgs)">
+ Button 8 = Clear all open fields
+
+</member>
+</members>
+</doc>
